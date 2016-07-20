@@ -1,0 +1,23 @@
+p{
+	border:dashed;
+	margin:12px 6px 4px 6px;
+	padding: 40px 30px 40px 30px;
+	background-color: white;
+
+}
+.padding{
+	margin:12px 6px 4px 6px;
+	padding: 40px 30px 40px 30px;
+	background-color: green;
+
+}
+.border{
+	margin:12px 6px 4px 6px;
+	padding: 40px 30px 40px 30px;
+	background-color: purple;
+
+}
+.margin{
+	margin:12px 6px 4px 6px;
+	padding: 30px 40px 40px 30px;
+	background-color: blue;
